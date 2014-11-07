@@ -16,9 +16,9 @@
 
 2. Create a branch (`git checkout -b my-solutions`) and write your solutions
 
-2. Generate a patch, that contains your solutions (`git diff --no-prefix master > my-solutions.patch`)
+3. Generate a patch, that contains your solutions (`git diff --no-prefix master > my-solutions.patch`)
 
-3. Send it to [phpconf-argentina-2014@spotify.com](mailto:phpconf-argentina-2014@spotify.com)
+4. Send it to [phpconf-argentina-2014@spotify.com](mailto:phpconf-argentina-2014@spotify.com)
 
 **ALSO IMPORTANT**: Really, if you would like to talk about your solution, don't be shy! Just find **Yuri Teixeira** (probably dressing a Spotify shirt) on the conference. He will be glad to talk to you :)
 
